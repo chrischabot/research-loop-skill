@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Loop"
+  short_description: "Long-running, self-steering research that builds a dataroom"
+  default_prompt: "Use $research-loop to start a research loop on this topic, seeded with these posts and sites."
